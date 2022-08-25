@@ -1,24 +1,8 @@
-- uuid: d6809ccd-0553-4651-a7c9-878b2b6b61b1
-  label: Achternaam
-  definitie: Familienaam
-- uuid: 969e0149-7acc-47ca-b1bf-f9ba01a35552
-  label: Activiteit
-  definitie: Werkzaamheid, verrichting, taak, als deel van een proces
-- uuid: 253f5f16-bede-452b-befb-03e5c91f004e
-  label: Actor
-  definitie: Handelend persoon in een functie voor een organisatie
-- uuid: e6e945eb-1194-4ae3-b973-c97ca8ec7e24
-  label: Begrip
-  definitie: Eenheid van denken, door een term en zijn relaties met andere termen te beschrijven
-- uuid: f4ee5260-a2e8-4488-83ae-80bb6cf28b3b
-  label: Bron
-  definitie: Verwijzing naar de locatie of het document waaruit de definitie van de term is voortgekomen, tekstueel
-- uuid: d3e3459b-f326-4ed9-b590-f277618ac77e
-  label: Bron URI
-  definitie: Identificatie van de bron waaruit de definitie van de term is voortgekomen, middels een URI
-- uuid: 8c4c5d94-f97c-4f9b-ae9f-c499b592eddf
-  label: Catalogus
-  definitie: Lijst, register van een verzameling werkelijke dingen (fysiek of virtueel), meestal met korte omschrijving
-- uuid: 0af010b0-148e-41a9-9fc2-0d810626743f
-  label: Collectie
-  definitie: Een verzameling van records van de entiteiten term of triple, of een verzameling van records van exemplaren (instanties, individuen)
+Achternaam: Familienaam
+Activiteit: Werkzaamheid, verrichting, taak, als deel van een proces
+Actor: Handelend persoon in een functie voor een organisatie
+Begrip: Eenheid van denken, door een term en zijn relaties met andere termen te beschrijven
+Bron: Verwijzing naar de locatie of het document waaruit de definitie van de term is voortgekomen, tekstueel
+Bron URI: Identificatie van de bron waaruit de definitie van de term is voortgekomen, middels een URI
+Catalogus: Lijst, register van een verzameling werkelijke dingen (fysiek of virtueel), meestal met korte omschrijving
+Persoon: Een verzameling van records van de entiteiten term of triple, of een verzameling van records van exemplaren (instanties, individuen)
