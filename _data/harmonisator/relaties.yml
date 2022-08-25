@@ -1,0 +1,8 @@
+Persoon heeft achternaam:
+  relatie: heeft_kenmerk
+  term1: Persoon
+  term2: Achternaam
+Persoon heeft voornaam:
+  relatie: heeft_voornaam
+  term1: Persoon
+  term2: Voornaam
